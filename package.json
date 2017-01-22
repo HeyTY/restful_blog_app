@@ -1,0 +1,26 @@
+{
+  "name": "restful_blog_app",
+  "version": "1.0.0",
+  "description": "A Restful Routing Blog built with Node,Mongo,Semantic UI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyTY/restful_blog_app.git"
+  },
+  "author": "Ty Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeyTY/restful_blog_app/issues"
+  },
+  "homepage": "https://github.com/HeyTY/restful_blog_app#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "method-override": "^2.3.7",
+    "mongoose": "^4.7.7"
+  }
+}
